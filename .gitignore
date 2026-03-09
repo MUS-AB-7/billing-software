@@ -1,0 +1,10 @@
+dist/
+*.log
+# OS
+.DS_Store
+.env
+node_modules/
+target/
+build/
+.idea/
+.vscode/
